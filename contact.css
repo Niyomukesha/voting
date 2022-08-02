@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(29, 27, 27);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    color: white;
+}
+.text{
+    display: flex;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+input{
+    margin: 1rem;
+}
+form{
+    margin: 5rem 5rem 5rem 30rem;
+}
+button{
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius:30px;
+    border: none;
+    background-color: violet;
+    color: black;
+    margin-left: 5rem;
+    font-weight: 8rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+#paragraph{
+    margin-top: 2rem;
+    margin-left: 35rem;  
+}
+#Message{
+    padding: 7rem;
+}
+#name,#email{
+    padding-right: 14rem;
+    padding-bottom: 2rem;
+}
+#txt{
+    padding-right: 1.3rem;
+}

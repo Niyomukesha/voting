@@ -1,0 +1,76 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.home{
+    margin-left: 10rem;
+    display: flex;
+    margin-top: 7rem;
+}
+.paragraph{
+    margin-left: 40rem;
+    margin-right: 5rem;
+}
+#title2{
+    font-size:1.5rem;
+    font-style:italic;
+    color: blue;
+    padding-bottom: 4px;
+}
+#title{
+    font-size: 1.8rem;
+    font-style: italic;
+    color: rgb(54, 38, 43);
+}
+#title1{
+    color: red;
+    font-size: 3rem;
+    font-style: normal;
+    padding-bottom: 1.5rem;
+}
+
+.button{
+    color: white;
+    text-decoration: none;;
+    padding: .6rem;
+    border-radius: 10rem;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    font-weight: bold;
+    font-style: normal;
+}
+p{
+    margin-bottom: 3rem;
+}
+.image{
+    margin-left: 14rem;
+    height: 10%;
+}
+
+
+button, a{
+    height: 40px;
+    width: 120px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 12px;
+    color: white;
+    background-color: rgb(51, 61, 61);
+    cursor: pointer;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+.nav{
+    padding: 2rem;
+    color: white;
+    margin-left: 80rem;
+}
+#nav1{
+    padding: 1rem;
+    font-size: 1.2rem;
+}
